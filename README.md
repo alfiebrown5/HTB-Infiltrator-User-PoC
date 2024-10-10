@@ -5,8 +5,11 @@ Warning: This contains spoilers for HTB's Infiltrator.
 
 Requirements:
 This script requires bloodyAD and impacket. It requires the use of impacket's dacledit.py. These can be downloaded from their respective repos here:
+
 https://github.com/fortra/impacket
+
 https://github.com/CravateRouge/bloodyAD
+
 
 The script may require you to change the IP of the DC if you are using a private machine, and will require you add the DC IP to your hosts file, along with `dc01.infiltrator.htb` and `infiltrator.htb`. 
 
